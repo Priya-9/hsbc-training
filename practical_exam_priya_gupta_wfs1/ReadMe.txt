@@ -1,3 +1,4 @@
+Main.java in View package should be used to run the whole project.
 Project has following layers : 
 1. Data Access Layer : "dao" Package containing Interface for Implementation classes to implement.
 2. Entity : "entity" Package containing all basic classes for records to handle. It also contains Custom Exception.
